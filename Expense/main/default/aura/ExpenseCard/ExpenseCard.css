@@ -1,0 +1,27 @@
+.THIS .header {
+    padding: 3px;
+}
+
+.THIS .value {
+    padding: 3px;
+    width: 90%;
+}
+
+.THIS .slds-checkbox--off, .THIS .slds-checkbox--on {
+    display: none !important;
+}
+
+.THIS .red {
+    color: rgb(255, 255, 255);
+    background-color: rgb(194, 57, 52);
+}
+
+.THIS .yellow {
+    color: rgb(0, 0, 0);
+    background-color: rgb(234, 234, 116);
+}
+
+.THIS .green {
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 132, 75);
+}

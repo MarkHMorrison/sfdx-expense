@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "Expense",
+            "default": true,
+            "package": "Expense",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "Expense": "0Hof2000000GmbCCAS",
+        "Expense@0.1.0-1": "04tf2000000Co5DAAS"
+    }
+}
